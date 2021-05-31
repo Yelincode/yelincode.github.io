@@ -108,14 +108,12 @@ html{
 
 #posts{
 	width: 30%;
-	float: left;
 	font-family: Helvetica, Arial;
 }
 
 .post{
 	display: block;
 	color: black;
-	margin-top:5px;
 }
 
 
